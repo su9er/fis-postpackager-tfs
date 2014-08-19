@@ -1,0 +1,31 @@
+{
+  "name": "fis-postpackager-tfs",
+  "version": "0.1.0",
+  "description": "Windows Team Foundation Server(TFS) version control via fis",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+      "tfsjs":"*"
+  },
+  "devDependencies": {
+      "tfsjs":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/su9er/fis-postpackager-tfs.git"
+  },
+  "keywords": [
+    "tfs",
+    "node",
+    "npm",
+    "fis"
+  ],
+  "author": "su9er",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/su9er/fis-postpackager-tfs/issues"
+  },
+  "homepage": "https://github.com/su9er/fis-postpackager-tfs"
+}
